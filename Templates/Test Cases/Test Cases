@@ -1,0 +1,39 @@
+Test logging in with a valid username and password
+Test logging in with an invalid username and valid password
+Test logging in with a valid username and invalid password
+Test logging in with an invalid username and invalid password
+Test logging in with a blank username and valid password
+Test logging in with a valid username and blank password
+Test logging in with a blank username and blank password
+Test logging in with a special character-only username and valid password
+Test logging in with a valid username and special character-only password
+Test logging in with a special character-only username and special character-only password
+Test logging in with a username that contains only numbers and a valid password
+Test logging in with a valid username and a password that contains only numbers
+Test logging in with a username that contains only numbers and a password that contains only numbers
+Test logging in with a username that contains a mix of alphanumeric characters and a valid password
+Test logging in with a valid username and a password that contains a mix of alphanumeric characters
+Test logging in with a username that contains a mix of alphanumeric characters and a password that contains a mix of alphanumeric characters
+Test logging in with a username that contains uppercase and lowercase letters and a valid password
+Test logging in with a valid username and a password that contains uppercase and lowercase letters
+Test logging in with a username that contains uppercase and lowercase letters and a password that contains uppercase and lowercase letters
+Test logging in with a long username (over 30 characters) and a valid password
+Test logging in with a valid username and a long password (over 30 characters)
+Test logging in with a long username (over 30 characters) and a long password (over 30 characters)
+Test logging in with a username that contains spaces and a valid password
+Test logging in with a valid username and a password that contains spaces
+Test logging in with a username that contains spaces and a password that contains spaces
+Test logging in with a username that contains international characters (e.g. accents, umlauts) and a valid password
+Test logging in with a valid username and a password that contains international characters (e.g. accents, umlauts)
+Test logging in with a username that contains international characters (e.g. accents, umlauts) and a password that contains international characters (e.g. accents, umlauts)
+Test logging in with a username that has been previously registered and a valid password
+Test logging in with a username that has not been previously registered and a valid password
+Test logging in with a username that has been previously registered and an invalid password
+Test logging in with a username that has not been previously registered and an invalid password
+Test logging in with a username that has been previously registered and a blank password
+Test logging in with a username that has not been previously registered and a blank password
+Test logging in with a username that has been previously registered and a special character-only password
+Test logging in with a username that has not been previously registered and a special character-only password
+Test logging in with a username that has been previously registered and a password that contains only numbers
+Test logging in with a username that has not been previously registered and a password that contains only numbers
+Test logging in with a username that has been previously registered and a password that
